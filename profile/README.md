@@ -1,25 +1,25 @@
 # JUMP Governance Alliance
 
 <p align="center">
-  <img src="../jumo no words.jpg" alt="JUMP Protocol Logo" width="200"/>
+  <img src="../jumo no words.jpg" alt="JUMP Protocol Logo" width="220">
+  <br>
+  <b>One Language. Every System.</b>
+  <br>
+  <b>The Universal Standard for Data Integrity.</b>
 </p>
-
-<h3 align="center">Chaos is default. Clarity is engineered.</h3>
 
 ---
 
 ### **Mission**
-The **JUMP Governance Alliance** is the decentralized body dedicated to maintaining and enforcing the **JUMP Protocol**—a universal standardization layer for data clarity and convergence. 
+The **JUMP Governance Alliance** stewards the **JUMP Protocol**—the universal bridge for a fragmented digital world. We provide the infrastructure for **Systemic Truth**, moving beyond data silos into a unified, cross-referenceable **Trust Index**.
 
-We develop the infrastructure required to strip away noise and standardize disparate information streams into a single, immutable, and cross-referenceable format.
-
-### **The Three Pillars**
-* **Universal Standardization:** Enforcing interoperability across distinct systems.
-* **Data Gravity:** Creating a convergence point where information flows toward a verifiable center.
-* **Auditability:** Establishing a "bend in the universe" where consensus meets absolute clarity.
+### **The Future of Information**
+* **Radical Interoperability:** Eliminating friction by enabling every disparate system to speak one language.
+* **Data Sovereignty:** Future-proofing the digital economy by returning ownership and control of truth to the source.
+* **Digital Circularity:** A sustainable, permanent framework that ensures global information remains verifiable and immune to noise.
 
 ---
 
 <p align="center">
-  <em>Standardize. Converge. Verify.</em>
+  **STANDARDIZE. CONVERGE. VERIFY.**
 </p>
